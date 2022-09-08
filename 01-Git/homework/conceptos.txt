@@ -1,0 +1,23 @@
+Definci`on de los siguiente conceptos.
+
+    * Variables
+
+    Es la cantidad de espacio en memoria que se asigna con un nombre que hace referencia a esa variable y recuperarlo despues.
+
+	* Strings 
+	
+	Es un dato de tipo caracter o cadena de caracteres que se escribe entre comillas dobles o simples.
+	
+	* Funciones (argumentos, `return`)
+	
+	Son bloques de codigo para realizar una rutina y dar un resultado a traves de los datos de entrada y regresar un valor.
+
+	* Declaraciones `if`
+
+	Es una sentencia en donde se cumple una condicion y se ejecuta una accion o fragmento de codigo.
+
+	* Valores booleanos (`true`, `false`)
+	
+	Solo son dos valores Verdadero o falso.
+
+
